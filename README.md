@@ -24,10 +24,12 @@ npm start
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8fc9c591-566c-4063-bf2e-641ce0fd27ba" />
 
-🙋‍♀️ 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b66b058b-30ad-4dee-a92e-93af7dab62cf" />
+
+
+## 🙋‍♀️ 
 
 LinkedIn: linkedin.com/in/ayeshashaikh30
-
 GitHub: AyeshaShaikh-30
 
 
