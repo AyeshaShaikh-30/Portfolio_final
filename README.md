@@ -16,20 +16,21 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 ## 🚀 How to Run Locally
 
 ```bash
+
 git clone https://github.com/AyeshaShaikh-30/Portfolio_final.git
 cd frontend
 npm install
 npm start
 ```
+<img width="1366" height="686" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/6be37a9e-5747-4cf5-bf12-cbb60434c6a6" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8fc9c591-566c-4063-bf2e-641ce0fd27ba" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b66b058b-30ad-4dee-a92e-93af7dab62cf" />
 
 
 ## 🙋‍♀️ 
 
 LinkedIn: linkedin.com/in/ayeshashaikh30
+
 GitHub: AyeshaShaikh-30
 
 
